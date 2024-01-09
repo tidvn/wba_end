@@ -10,8 +10,9 @@
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
     "**/node_modules": true,
-    "**/dist": true,
-    "**/build": true
+    "**/.next": true,
+    "**/.yarn": true,
+    "**/.eslintignore": true,
   
   }
 }
